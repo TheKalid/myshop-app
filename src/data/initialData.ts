@@ -1,4 +1,4 @@
-export const allCelulares = [
+export const allProducts = [
 	{
 		brand: 'Samsung',
 		colors: [{ color: '#000000', color_name: 'Negro' }],

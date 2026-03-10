@@ -12,7 +12,7 @@ export const navbarLinks = [
     href: '/Productos',
     },
     {
-    id: 1,
+    id: 3,
     title: 'Sobre nosotros',
     href: '/nosotros',
     },
